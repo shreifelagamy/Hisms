@@ -1,0 +1,21 @@
+{
+    "name": "shreifelagamy/hisms",
+    "description": "SMS libaray using hisms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shreif",
+            "email": "shre.if.ashr.af@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "Hisms\\": "src"
+      }
+    },
+}

@@ -9,6 +9,7 @@
             "email": "shre.if.ashr.af@hotmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
         "guzzlehttp/guzzle": "^6.2"
